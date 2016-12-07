@@ -1,17 +1,17 @@
-typography_spectrum: 0.8542743760626763
+layout_spectrum: 0.11223124496832416
+typography_spectrum: 0.9478963396683482
 color:
-  brandStrength: 0.44121654820628464
-  lightness: 0.21320847468450665
-  saturation: 0.041681791888549924
-  rhythmicContrast: 0.4003732593264431
+  brandStrength: 0.4734723559389868
+  lightness: 0.10948279637078026
+  saturation: 0.23879843945910068
+  rhythmicContrast: 0.25235237781935843
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#F4F0DF'
+    - '#005911'
+    - '#0C981D'
+    - '#201F1D'
+    - '#D27717'
 github: true
-layout_spectrum: 0.26831600279547274
 author:
   name: Patric Spohn
   email: patric.spohn@gmail.com
