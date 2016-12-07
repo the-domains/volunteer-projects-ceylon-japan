@@ -1,0 +1,24 @@
+typography_spectrum: 0.8542743760626763
+color:
+  brandStrength: 0.44121654820628464
+  lightness: 0.21320847468450665
+  saturation: 0.041681791888549924
+  rhythmicContrast: 0.4003732593264431
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+github: true
+layout_spectrum: 0.26831600279547274
+author:
+  name: Patric Spohn
+  email: patric.spohn@gmail.com
+  url: 'http://volunteerprojectsceylon.org'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/72766cf7-5147-4e6e-8136-6911054af082.png
+name: Volunteer Projects Ceylon Japan
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2e69e4a-35ee-483d-a3eb-db6c4a9e837c.jpg
+content: []
