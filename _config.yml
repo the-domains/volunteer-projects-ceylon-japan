@@ -30,3 +30,6 @@ purpose:
   - type: external
     url: 'http://volunteerprojectsceylon.org/apply.html'
     label: Apply now
+  - type: contact
+    url: 'mailto:patric.spohn@gmail.com'
+    label: Contact us
